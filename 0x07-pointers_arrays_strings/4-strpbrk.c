@@ -1,5 +1,3 @@
-4-Strpbrk.c
-
 #include "main.h"
 /**
  * _strpbrk - Entry point
